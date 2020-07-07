@@ -18,7 +18,7 @@ git clone -b master https://github.com/vernesong/OpenClash.git package/luci-app-
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adguardhome
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/tty228/luci-app-serverchan.git package/serverchan
-git clone https://github.com/skyformat99/eqos.git package/eqos
+git clone https://github.com/garypang13/luci-app-eqos.git package/eqos
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
